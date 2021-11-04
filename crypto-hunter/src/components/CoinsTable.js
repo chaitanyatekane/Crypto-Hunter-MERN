@@ -79,7 +79,7 @@ const CoinsTable = () => {
           Cryptocurrency Prices by Market Cap
         </Typography>
         <TextField
-          label="Search For a Cypto Currency.."
+          label="Search For a Crypto Currency.."
           variant="outlined"
           style={{ marginBottom: 20, width: "100%" }}
           onChange={(e) => setSearch(e.target.value)}
@@ -111,7 +111,7 @@ const CoinsTable = () => {
                   const profit = row.price_change_percentage_24h > 0;
                   return (
                     <TableRow
-                      onClick={() => history.pushState("/coins/${row.id")}
+                      onClick={() => history.push(`/coins/${row.id}`)}
                       className={classes.row}
                       key={row.name}
                     >

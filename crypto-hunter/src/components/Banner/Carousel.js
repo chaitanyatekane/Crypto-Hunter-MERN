@@ -7,7 +7,6 @@ import { useState } from "react";
 import { useEffect } from "react";
 import AliceCarousel from "react-alice-carousel";
 import { Link } from "react-router-dom";
-import { red } from "@material-ui/core/colors";
 
 const useStyles = makeStyles((theme) => ({
   carousel: {
@@ -26,6 +25,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export function numberWithCommas(x) {
+  // displaying commas between numbers, used below 👇 regex
   return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
 
@@ -88,8 +88,8 @@ const Carousel = () => {
       <AliceCarousel
         mouseTracking
         infinite
-        autoPlayInterval={1000}
-        animationDuration={1500}
+        autoPlayInterval={800}
+        animationDuration={1000}
         disableButtonsControls
         disableDotsControls
         responsive={responsive}
