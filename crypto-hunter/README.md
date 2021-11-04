@@ -12,6 +12,8 @@
 - [React Alice Carousel](https://www.npmjs.com/package/react-alice-carousel)<br>
   Command -> npm i react-alice-carousel<br>
   Also Import in index.js-> import 'react-alice-carousel/lib/alice-carousel.css';
+- React HTML Parser <br>
+  Command -> npm i react-html-parser
 
 ### Font Used
 
