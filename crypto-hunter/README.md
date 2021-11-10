@@ -14,6 +14,8 @@
   Also Import in index.js-> import 'react-alice-carousel/lib/alice-carousel.css';
 - React HTML Parser <br>
   Command -> npm i react-html-parser
+- [React-ChartJs](https://www.npmjs.com/package/react-chartjs-2)<br>
+  Command -> npm install --save react-chartjs-2 chart.js
 
 ### Font Used
 
