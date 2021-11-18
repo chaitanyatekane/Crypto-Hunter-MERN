@@ -16,6 +16,9 @@
   Command -> npm i react-html-parser
 - [React-ChartJs](https://www.npmjs.com/package/react-chartjs-2)<br>
   Command -> npm install --save react-chartjs-2 chart.js
+- Installed Firebase<br>
+  Command -> npm install firebase<br>
+-
 
 ### Font Used
 
