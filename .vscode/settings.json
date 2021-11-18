@@ -4,7 +4,9 @@
     "Cypto",
     "chartjs",
     "darkgrey",
+    "describedby",
     "firestore",
+    "labelledby",
     "selectbutton"
   ]
 }
