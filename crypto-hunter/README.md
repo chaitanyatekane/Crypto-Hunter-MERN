@@ -20,7 +20,8 @@
   Command -> npm install firebase<br>
 - React Google Button <br>
   Command -> npm install react-google-button<br>
--
+- React Icons <br>
+  Command -> npm i react-icons<br>
 
 ### Font Used
 
