@@ -18,6 +18,8 @@
   Command -> npm install --save react-chartjs-2 chart.js
 - Installed Firebase<br>
   Command -> npm install firebase<br>
+- React Google Button <br>
+  Command -> npm install react-google-button<br>
 -
 
 ### Font Used
