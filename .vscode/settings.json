@@ -9,6 +9,8 @@
     "describedby",
     "firestore",
     "labelledby",
-    "selectbutton"
+    "monospace",
+    "selectbutton",
+    "watchlist"
   ]
 }
