@@ -3,7 +3,7 @@ import { BrowserRouter, Route } from "react-router-dom";
 import "./App.css";
 import Alert from "./components/Alert";
 import Header from "./components/Header";
-import CoinPage from "./pages/CoinPage";
+import CoinPage from "./pages/Coinpage";
 import Homepage from "./pages/Homepage";
 
 function App() {

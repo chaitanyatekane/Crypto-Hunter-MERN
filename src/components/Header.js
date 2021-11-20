@@ -8,7 +8,7 @@ import {
   Typography,
   ThemeProvider,
 } from "@material-ui/core";
-import { dark } from "@material-ui/core/styles/createPalette";
+// import { dark } from "@material-ui/core/styles/createPalette";
 import { makeStyles } from "@material-ui/styles";
 import React from "react";
 import { useHistory } from "react-router-dom";
