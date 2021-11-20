@@ -1,6 +1,102 @@
 ## Crypto-Hunter
 
-### Installed Packages, Etc
+[Crypto-Hunter]() application helps us to track trending crypto-currency coins, provides last 24hr market capitalization including add to wishlist feature, using firebase authentication of login and sign-up.
+
+<hr>
+
+## Features
+
+- Firebase Authentication (Google & Email Sign-up/Login)
+- Add to Wishlist
+- Search For Crypto-Currency
+- Carousel for Trending Coins
+- Mobile Responsive
+- Charts for Particular Coins (Historical Data)
+- Available in INR & USD
+- Table Contains : Coin | Price | 24h Change | Market Cap
+
+<hr>
+
+## Built With
+
+- [React JS](https://reactjs.org/)
+- [Material UI](https://v4.mui.com/)
+- [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
+- [Firebase](https://firebase.google.com/)
+
+<hr>
+
+## Live Demo
+
+Here is a working live demo :
+
+<hr>
+
+## Site Overview
+
+<hr>
+
+### Login
+
+![](./images/login.png)
+
+### Sign-Up
+
+![](./images/sign-up.png)
+
+### Homepage
+
+![](./images/homepage.png)
+
+### Crypto Coins Table
+
+![](./images/table.png)
+
+### Individual Coin
+
+![](./images/particular-coin.png)
+
+### Wishlist/Logout
+
+![](./images/wishlist-logout.png)
+
+### Mobile Responsive
+
+![](./images/mobile-responsive-1.png)
+
+![](./images/mobile-responsive-2.png)
+
+<hr>
+
+## Issues
+
+Feel free to submit [issues](https://github.com/chaitanyatekane/CryptoCurrency-Tracker/issues) and enhancement requests.
+
+## Contribute
+
+1.  **Fork** this repo on GitHub
+2.  **Clone** this project to your own machine
+3.  **Commit** changes to your own branch
+4.  **Push** your work back up to your fork
+5.  Submit a **Pull request** so that I can review your changes
+
+NOTE: Make sure to merge the latest from "upstream" before making a pull request!
+
+<hr>
+
+## Connect With Me
+
+<p align="center">
+<a href = "mailto: chaitanyatekne5@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/chaitanyatekane"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/chaitanyatekane"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://twitter.com/chaitanyatekne"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<!-- <a href="https://leetcode.com/chaitanyatekane/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> -->
+<a href="https://chaitanyatekane.hashnode.dev/"><img alt="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+<a href="https://www.instagram.com/tekanechaitanya/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<!-- ### Installed Packages, Etc
 
 - [Material-UI (version-4)](https://v4.mui.com/) <br>
   Command -> npm install @material-ui/core @material-ui/lab
@@ -32,4 +128,4 @@
 
 - React Router
 - Material-UI
-- Context-API (State Management)
+- Context-API (State Management) -->
