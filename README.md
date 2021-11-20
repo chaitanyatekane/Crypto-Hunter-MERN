@@ -2,8 +2,6 @@
 
 [Crypto-Hunter]() application helps us to track trending crypto-currency coins, provides last 24hr market capitalization including add to wishlist feature, using firebase authentication of login and sign-up.
 
-<hr>
-
 ## Features
 
 - Firebase Authentication (Google & Email Sign-up/Login)
@@ -15,8 +13,6 @@
 - Available in INR & USD
 - Table Contains : Coin | Price | 24h Change | Market Cap
 
-<hr>
-
 ## Built With
 
 - [React JS](https://reactjs.org/)
@@ -24,17 +20,11 @@
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 - [Firebase](https://firebase.google.com/)
 
-<hr>
-
 ## Live Demo
 
 Here is a working live demo :
 
-<hr>
-
 ## Site Overview
-
-<hr>
 
 ### Login
 
@@ -66,8 +56,6 @@ Here is a working live demo :
 
 ![](./images/mobile-responsive-2.png)
 
-<hr>
-
 ## Issues
 
 Feel free to submit [issues](https://github.com/chaitanyatekane/CryptoCurrency-Tracker/issues) and enhancement requests.
@@ -81,8 +69,6 @@ Feel free to submit [issues](https://github.com/chaitanyatekane/CryptoCurrency-T
 5.  Submit a **Pull request** so that I can review your changes
 
 NOTE: Make sure to merge the latest from "upstream" before making a pull request!
-
-<hr>
 
 ## Connect With Me
 
