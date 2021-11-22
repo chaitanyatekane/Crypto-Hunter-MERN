@@ -26,35 +26,7 @@ Here is a working live demo : [Click Here](https://crypto-tracker-by-chaitanya.n
 
 ## Site Overview
 
-### Login
-
-![](./images/login.png)
-
-### Sign-Up
-
-![](./images/sign-up.png)
-
-### Homepage
-
-![](./images/homepage.png)
-
-### Crypto Coins Table
-
-![](./images/table.png)
-
-### Individual Coin
-
-![](./images/particular-coin.png)
-
-### Wishlist/Logout
-
-![](./images/wishlist-logout.png)
-
-### Mobile Responsive
-
-![](./images/mobile-responsive-1.png)
-
-![](./images/mobile-responsive-2.png)
+![](./images/crypto-hunter.gif)
 
 ## Issues
 
