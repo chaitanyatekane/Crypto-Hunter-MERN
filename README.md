@@ -1,6 +1,6 @@
 ## Crypto-Hunter
 
-[Crypto-Hunter](https://crypto-tracker-by-chaitanya.netlify.app/) application helps us to track trending crypto-currency coins, provides last 24hr market capitalization including add to wishlist feature, using firebase authentication of login and sign-up.
+[Crypto-Hunter]() application helps us to track trending crypto-currency coins, provides last 24hr market capitalization including add to wishlist feature, using firebase authentication of login and sign-up.
 
 ## Features
 
@@ -20,13 +20,13 @@
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 - [Firebase](https://firebase.google.com/)
 
-## Live Demo
+<!-- ## Live Demo
 
-Here is a working live demo : [Click Here](https://crypto-tracker-by-chaitanya.netlify.app/)
+Here is a working live demo : [Click Here](https://crypto-tracker-by-chaitanya.netlify.app/) -->
 
-## Site Overview
+<!-- ## Site Overview
 
-![](./images/crypto-hunter.gif)
+![](./images/crypto-hunter.gif) -->
 
 ## Issues
 
