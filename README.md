@@ -7,7 +7,7 @@ Crypto-Hunter is a web application that helps us to track trending crypto-curren
 - Firebase Authentication (Google & Email Sign-up/Login)
 - Add to Wishlist
 - Alerts
-- Search For Crypto-Currency
+- Search For Crypto Currency
 - Carousel for Trending Coins
 - Mobile Responsive
 - Charts for Particular Coins (Historical Data)
